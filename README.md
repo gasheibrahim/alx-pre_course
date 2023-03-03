@@ -1,1 +1,2 @@
-add 0X01-git directory
+at the root of your repository alx-pre_course
+AND in the directory 0x01-git

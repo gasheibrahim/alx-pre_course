@@ -1,2 +1,1 @@
-at the root of your repository alx-pre_course
-AND in the directory 0x01-git
+For this task – and only for this task – please update your file README.md in the main branch from GitHub.com. It’s the only time you are allowed to update and commit from GitHub interface.
